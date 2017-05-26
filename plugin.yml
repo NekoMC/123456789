@@ -1,0 +1,10 @@
+name: NekoMC
+version: 1.1
+description: The only plugin on the NekoMC network.
+author: TheDreps
+website: www.nekomc.com
+main: me.TheDreps.NekoMC.NekoMC
+prefix: NekoMC
+commands:
+  setspawn:
+    description: Sets spawn!
